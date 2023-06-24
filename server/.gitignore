@@ -1,4 +1,9 @@
 # Ignore node_modules folder
 node_modules
+/todowithbackend/client/node_modules
+/todowithbackend/client/package-lock.json
+/todowithbackend/server/node_modules
+/todowithbackend/server/package-lock.json
 # Ignore files related to API keys
 .env
+/todowithbackend/server/.env
