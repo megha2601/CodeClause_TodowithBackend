@@ -1,4 +1,4 @@
-# CodeClause_TodowithBackend
+# TodowithBackend
 A ToDo List app with Backend for storing, modifying and deleting Todos.
 
 ## npm i
